@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @behzad-ahmadi
 - 👀 I’m interested in MERN.
-- 🌱 I’m currently learning Java Script.
+- 🌱 I’m currently diving in Reactjs.
 - 💞️ I’m looking to collaborate on the project that make life beter.
 - 📫 How to reach me, bh.ahmady [@] gmail.com
 
